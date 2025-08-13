@@ -4,7 +4,7 @@ import './index.css'
 import NavBar from './components/Nav.jsx'
 import Section from './components/Section.jsx'
 import Card from './components/Card.jsx'
-import Footer from './components/footer.jsx'
+import Footer from './components/Footer.jsx'
 import Loader from './components/Loader.jsx'
 
 createRoot(document.getElementById('root')).render(
